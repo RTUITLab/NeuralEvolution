@@ -26,6 +26,11 @@
 
 > Животное должно научиться не умирать (01.10)
 
+### Репозитории
+
+* [backend](https://github.com/RTUITLab/NeuralEvolution-Back)
+* [Unity](https://github.com/RTUITLab/NeuralEvolution-Unity)
+
 ### Логика взаимодействия
 
 ![Logic](/images/Logic.jpg)
