@@ -28,7 +28,7 @@
 
 ### Логика взаимодействия
 
-![Logic](./images/logic.jpg)
+![Logic](/images/Logic.jpg)
 
 ### Описание
 
